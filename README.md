@@ -26,14 +26,17 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+One part of express is that you can add middleware.
+Another is express router.
+
 - [ ] Describe Middleware?
-
+Middleware helps develpers expand functionality.
 - [ ] Describe a Resource?
-
+A resource is data. 
 - [ ] What can the API return to help clients know if a request was successful?
-
+It can return a status code respective of success or failure. It can also return a message or the object with the requested data.
 - [ ] How can we partition our application into sub-applications?
-
+We can use express router.
 ## Project Setup
 
 Follow these steps to set up and work on your project:
