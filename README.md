@@ -26,14 +26,17 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+One part of express is that you can add middleware.
+Another is express router.
+
 - [ ] Describe Middleware?
-
+Middleware helps develpers expand functionality.
 - [ ] Describe a Resource?
-
+A resource is data. 
 - [ ] What can the API return to help clients know if a request was successful?
-
+It can return a status code respective of success or failure. It can also return a message or the object with the requested data.
 - [ ] How can we partition our application into sub-applications?
-
+We can use express router.
 ## Project Setup
 
 Follow these steps to set up and work on your project:
@@ -109,3 +112,5 @@ Now that we have a way to add, update, remove and retrieve data from the provide
 - From the React application show a list of all _projects_ using the API you built.
 - Add functionality to show the details of a project, including its actions, when clicking a project name in the list. Use React Router to navigate to a separate route to show the project details.
 - Add styling! Perhaps with [`styled-components`](https://www.styled-components.com/).
+
+jamison b
